@@ -1,6 +1,8 @@
 h1 {
   font-family: Chalkduster, serif;
 }
-
+.gallery-item {  
+  border: 5px solid #FFF;
+}
 
 
