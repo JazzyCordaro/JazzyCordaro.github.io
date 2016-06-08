@@ -1,15 +1,10 @@
 h1 {
-  font-family: Chalkduster, serif;
+  font-family: Herculanum, serif;
 }
 body {
   font-family: Century Gothic, serif;
 }
 body {
   border: 2px dotted black; 
-}
-body {
-  position: relative; 
-  top: 10px; 
-  left: 20px;
 }
 
