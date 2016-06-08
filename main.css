@@ -10,4 +10,7 @@ body {
 img {
   border: 4px dashed black; 
 }
+img {
+  align= "center"
+}
 
