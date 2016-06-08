@@ -5,9 +5,7 @@ body {
   font-family: Century Gothic, serif;
 }
 body {
-  border: 2px solid black; 
+  border: 2px dotted black; 
 }
-h1{
-  float: center; 
-}
+
 
