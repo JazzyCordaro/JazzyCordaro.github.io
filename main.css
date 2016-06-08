@@ -5,10 +5,7 @@ body {
   font-family: Century Gothic, serif;
 }
 body {
-  border: 2px dashed black; 
-}
-h1 {
-  padding: 20px; 
+  border: 2px solid black; 
 }
 h1{
   float: center; 
