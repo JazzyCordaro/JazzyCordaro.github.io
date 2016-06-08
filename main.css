@@ -4,9 +4,13 @@ h1 {
 body {
   font-family: Century Gothic, serif;
 }
-body {
+h1 {
   border: 2px solid black; 
 }
-body {
+h1 {
   padding: 10px; 
 }
+h1{
+  float: left; 
+}
+
