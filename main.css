@@ -4,4 +4,6 @@ h1 {
 body {
   font-family: Century Gothic, serif;
 }
-
+h1 {
+  padding: 20px; 
+}
