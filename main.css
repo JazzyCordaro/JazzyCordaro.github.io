@@ -5,10 +5,10 @@ body {
   font-family: Century Gothic, serif;
 }
 body {
-  border: 2px solid blue; 
+  border: 2px solid black; 
 }
 img {
-  border: 3px solid blue; 
+  border: 3px dotted blue; 
 }
 
 
