@@ -26,4 +26,6 @@ p h3 {
 img {
   float: right;
 }
-
+ul li {
+  border: 20px solid blue;
+}
