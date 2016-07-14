@@ -6,6 +6,10 @@ body {
 }
 body {
   border: 2px solid black; 
+  padding-top: 6px;
+  padding-right: 6px;
+  padding-bottom: 6px;
+  padding-left: 6px;
 }
 img {
   border: 2px dotted blue; 
