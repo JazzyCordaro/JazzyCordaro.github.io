@@ -12,7 +12,8 @@ body {
 img {
   border: 2px solid blue;
   width:160px;
-  height:160px;" 
+  height:160px;
+  content: center; 
 }
 h1 {
   color: #0000ff;
