@@ -23,5 +23,7 @@ p h3 {
   padding-bottom: 6px;
   padding-left: 26px;
 }
-
+img {
+  float: right;
+}
 
