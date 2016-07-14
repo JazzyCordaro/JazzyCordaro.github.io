@@ -13,8 +13,7 @@ body {
   border: 2px solid blue;
   width:100px;
   height:100px;
-  float: right;
-  
+  float: center;
 }
 h1 {
   color: #0000ff;
