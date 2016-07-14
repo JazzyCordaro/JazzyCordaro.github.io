@@ -3,11 +3,6 @@ h1 {
 }
 body {
   font-family: Century Gothic, serif;
-  border: 2px solid black; 
-  padding-top: 6px;
-  padding-right: 6px;
-  padding-bottom: 6px;
-  padding-left: 6px;
 }
 img {
   border: 2px dotted blue; 
@@ -27,6 +22,4 @@ p h3 {
 ul li {
   font-size: 12px;
 }
-h {
-  margin: 20px;
-}
+
