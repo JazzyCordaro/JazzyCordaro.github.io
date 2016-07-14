@@ -10,5 +10,8 @@ body {
 img {
   border: 2px dotted blue; 
 }
+header{
+  background-color: #0000ff;
+}
 
 
