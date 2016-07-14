@@ -23,9 +23,10 @@ p h3 {
   padding-bottom: 6px;
   padding-left: 26px;
 }
-img {
-  float: right;
-}
+
 ul li {
-  font-size: 24px;
+  font-size: 12px;
+}
+h {
+  margin: 20px;
 }
