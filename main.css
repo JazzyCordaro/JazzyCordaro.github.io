@@ -10,8 +10,10 @@ body {
   padding-left: 6px;
 }
 img {
-  border: 2px dotted blue;
-  style="float:center;width:160px;height:160px;" 
+  border: 2px solid blue;
+  style="float:center;
+  width:160px;
+  height:160px;" 
 }
 h1 {
   color: #0000ff;
