@@ -15,5 +15,13 @@ img {
 h1 {
   color: #0000ff;
 }
+p h3 {
+  font-family: Century Gothic, serif;
+  border: 2px solid black; 
+  padding-top: 6px;
+  padding-right: 6px;
+  padding-bottom: 6px;
+  padding-left: 6px;
+}
 
 
