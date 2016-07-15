@@ -29,5 +29,9 @@ h1 {
 ul li {
   font-size: 18px;
 }
+.header {
+  padding: 10px 10px 10px 10px;
+  background-color: #ffffff;
+}
 
 
