@@ -8,6 +8,7 @@ body {
   padding-right: 6px;
   padding-bottom: 6px;
   padding-left: 6px;
+  line-height: 26px;
 }
 .me img {
   border: 2px solid blue;
@@ -27,9 +28,6 @@ h1 {
 
 ul li {
   font-size: 18px;
-}
-.profile ul {
-  font-weight: thin;
 }
 
 
