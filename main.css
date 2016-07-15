@@ -42,6 +42,9 @@ ul li {
   background-color: #ffff00;
 }
 .work {
-  padding: 5px;
+   padding-top: 6px;
+  padding-right: 26px;
+  padding-bottom: 6px;
+  padding-left: 26px;
 }
 
