@@ -13,9 +13,6 @@ body {
 }
 .me img {
   border: 2px solid blue;
-  width:160px;
-  height:160px;
-  float: center;
   margin: 30px auto 0 auto;
 }
 
