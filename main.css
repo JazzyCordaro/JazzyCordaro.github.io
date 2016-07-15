@@ -28,6 +28,7 @@ h1 {
 
 ul li {
   font-size: 18px;
+  display: inline;
 }
 .header {
   padding: 10px 10px 10px 10px;
