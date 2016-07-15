@@ -41,8 +41,11 @@ ul li {
   background-color: #ffff00;
 }
 .headera {
-  padding: 10px 10px 10px 10px;
   background-color: #ffff00;
+  padding-top: 6px;
+  padding-right: 26px;
+  padding-bottom: 6px;
+  padding-left: 26px;
 }
 .headerb {
   padding: 10px 10px 10px 10px;
