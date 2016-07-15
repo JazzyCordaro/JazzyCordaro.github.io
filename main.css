@@ -26,6 +26,9 @@ h1 {
   padding-right: 26px;
   padding-bottom: 6px;
   padding-left: 26px;
+  
+}
+h1 {
   text-shadow: 1px 2px 2px #000;
 }
 
