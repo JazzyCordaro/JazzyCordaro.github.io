@@ -26,11 +26,9 @@ h1 {
   padding-right: 26px;
   padding-bottom: 6px;
   padding-left: 26px;
-  
+  text-shadow: 50%;
 }
-h1 {
-  text-shadow: 1px 2px 2px #ffffff;
-}
+
 
 ul li {
   font-size: 18px;
