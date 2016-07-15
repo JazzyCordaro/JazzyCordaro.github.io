@@ -10,6 +10,7 @@ body {
   padding-left: 6px;
   line-height: 26px;
   background-color: #aaaaaa;
+  background: radial-gradient: (circle at top left, aqua blue);
 }
 .me img {
   border: 2px solid blue;
