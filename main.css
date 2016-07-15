@@ -41,15 +41,9 @@ ul li {
   background-color: #ffff00;
 }
 .headera {
- color: #0000ff;
-  ont-family: Century Gothic, serif;
-  border: 2px solid black; 
-  padding-top: 6px;
-  padding-right: 26px;
-  padding-bottom: 6px;
-  padding-left: 26px;
-  text-shadow: 2px 2px #191970;
-  box-shadow: 2px 2px #000000;
+ background-color: #ffff00;
+padding: 10px 10px 10px 10px;
+margin:auto;
 }
 .headerb {
   padding: 10px 10px 10px 10px;
