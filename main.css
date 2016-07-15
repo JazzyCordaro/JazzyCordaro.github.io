@@ -30,4 +30,7 @@ p h3 {
 ul li {
   font-size: 18px;
 }
+.profile {
+  border: 10px solid black;
+}
 
