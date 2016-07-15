@@ -16,7 +16,9 @@ body {
   width:160px;
   height:160px;
   float: center;
-  box-shadow: 50%;
+  .box{
+    border-radius: 75%;
+  }
 }
 h1 {
   color: #0000ff;
