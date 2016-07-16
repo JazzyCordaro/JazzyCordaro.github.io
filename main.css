@@ -9,7 +9,7 @@ body {
   padding-bottom: 6px;
   padding-left: 6px;
   line-height: 26px;
-  background: radial-gradient: (circle at top left, aqua blue);
+ background-color: #fff8dc;
 }
 .me img {
   border: 2px solid blue;
@@ -42,7 +42,7 @@ ul li {
 }
 
 .headera {
-  padding: 6px 26px 6px 26px;
+  padding: 10px 10px 10px 10px;
  background-color: #ffff00;
 }
 .headerb {
