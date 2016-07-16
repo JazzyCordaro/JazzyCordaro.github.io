@@ -43,13 +43,10 @@ ul li {
 }
 
 .headera {
- background-color: #ffff00;
-  text-decoration: underline;
-  padding-top: 6px;
-  padding-right: 26px;
-  padding-bottom: 6px;
-  padding-left: 26px;
+   padding: 10px 10px 10px 10px;
+  background-color: #ffff00;
 }
+
 .headerb {
   background-color: #ffff00;
   text-decoration: underline;
