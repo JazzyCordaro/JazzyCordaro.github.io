@@ -20,18 +20,6 @@ body {
  box-shadow: 10px 10px 5px grey;
 }
 
-h1 {
-  color: #0000ff;
-  ont-family: Century Gothic, serif;
-  text-decoration: underline;
-  padding-top: 6px;
-  padding-right: 26px;
-  padding-bottom: 6px;
-  padding-left: 26px;
-  text-shadow: 2px 2px #191970;
-  box-shadow: 2px 2px #000000;
-}
-
 
 ul li {
   font-size: 18px;
