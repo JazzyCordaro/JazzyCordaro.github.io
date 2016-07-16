@@ -61,10 +61,8 @@ ul li {
 .info {
   display: inline;
   font-size: 18px;
-  width: 500px;
-  padding: 20px;
-  border: 1px solid #aaaaaa;
-  margin: 30px auto 0 auto;
+ border: 8px 3px  8px 4px;
+ background-color: red;
 }
 .work {
   font-size: 18px;
