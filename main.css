@@ -51,11 +51,11 @@ ul li {
 }
 
 .profile {
-  width: 100px;
-    height: 200px;
-    border: 1px solid red;
-    margin: 5px;
-    float: left;
+  font-size: 18px;
+  width: 500px;
+  padding: 20px;
+  border: 1px solid #aaaaaa;
+  margin: 30px auto 0 auto;
 }
 
 .info {
