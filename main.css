@@ -33,6 +33,15 @@ ul li {
 .headera {
    padding: 10px 10px 10px 10px;
   background-color: #ffff00;
+  color: #0000ff;
+  ont-family: Century Gothic, serif;
+  text-decoration: underline;
+  padding-top: 6px;
+  padding-right: 26px;
+  padding-bottom: 6px;
+  padding-left: 26px;
+  text-shadow: 2px 2px #191970;
+  box-shadow: 2px 2px #000000;
 }
 
 .headerb {
