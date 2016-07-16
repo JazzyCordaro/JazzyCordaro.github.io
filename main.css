@@ -78,8 +78,8 @@ ul li {
   display: inline;
   font-size: 18px;
  background-color: red;
- float:auto;
-}
+ }
+
 .work {
   font-size: 18px;
   width: 500px;
