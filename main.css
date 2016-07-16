@@ -59,6 +59,7 @@ ul li {
   margin: 30px auto 0 auto;
 }
 .info {
+  display: inline;
   font-size: 18px;
   width: 500px;
   padding: 20px;
