@@ -18,7 +18,6 @@ body {
  display:block;
  margin: auto;
  box-shadow: 10px 10px 5px grey;
- float: left;
 }
 
 h1 {
@@ -37,18 +36,27 @@ h1 {
 ul li {
   font-size: 18px;
 }
+
 .header {
   padding: 10px 10px 10px 10px;
   background-color: #ffff00;
 }
 
 .headera {
-  padding: 10px 10px 10px 10px;
  background-color: #ffff00;
+  text-decoration: underline;
+  padding-top: 6px;
+  padding-right: 26px;
+  padding-bottom: 6px;
+  padding-left: 26px;
 }
 .headerb {
-  padding: 10px 10px 10px 10px;
   background-color: #ffff00;
+  text-decoration: underline;
+  padding-top: 6px;
+  padding-right: 26px;
+  padding-bottom: 6px;
+  padding-left: 26px;
 }
 
 .profile {
