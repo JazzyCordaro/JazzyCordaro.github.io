@@ -9,7 +9,6 @@ body {
   padding-bottom: 6px;
   padding-left: 6px;
   line-height: 26px;
-  background-color: #fff8dc;
   background: radial-gradient: (circle at top left, aqua blue);
 }
 .me img {
@@ -61,7 +60,6 @@ ul li {
 .info {
   display: inline;
   font-size: 18px;
- padding: 80px 30px  80px 40px;
  background-color: red;
 }
 .work {
